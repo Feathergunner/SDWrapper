@@ -1,2 +1,2 @@
 # SDWrapper
-A wrapper for bsujindals stable-diffusion-fork ( https://github.com/basujindal/stable-diffusion ).
+A wrapper for basujindals stable-diffusion-fork ( https://github.com/basujindal/stable-diffusion ).
