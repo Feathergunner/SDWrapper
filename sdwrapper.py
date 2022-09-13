@@ -82,5 +82,5 @@ def run_prompts(name, promptfile="prompts_example", stylefile="styles_example", 
 
 if __name__ == "__main__":
 	print ("requires \"conda activate ldm\"!")
-	run_prompts("debug", settings=SETTINGS_DEBUG)
+	run_prompts("test", settings=SETTINGS_TEST)
 	
