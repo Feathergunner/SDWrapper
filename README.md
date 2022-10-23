@@ -19,6 +19,9 @@ The file prompts/multiprompts/styles_all.json contains a list of different style
 - elephant
 - girl in a field of flowers
 
+For each category, one out of five images was cherry-picked, therefore the seeds are not always the same.
+(Seeds are documented in the filenames: last 6-digit-number of filename)
+
 anime_cute:
 <p float="left">
   <img src="/exampleimgs/castle/castle_anime_cute_854245.png" width="300" />
