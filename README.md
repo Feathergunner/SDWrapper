@@ -10,11 +10,11 @@ Basujindals optimized stable diffusion ( https://github.com/basujindal/stable-di
 
 ### Run
 1. Write your content-prompt(s) as a dictionary into a .json-file at prompts/multiprompts. See prompts/multiprompts/contents_example.json for examples.
-2. Write your style specification(s) as a dictionary into another .json-file at prompts/multiprompts. See prompts/multiprompts/styles_all.json for examples.
+2. Write your style specification(s) as a dictionary into another .json-file at prompts/multiprompts. See prompts/multiprompts/styles.json for examples.
 2. Call sdwrapper.run_prompts(). See sdwrapper.py for examples.
 
 # Styles
-The file prompts/multiprompts/styles_all.json contains a list of different styles to choose from. Here are examples for all the styles, applied to the prompts
+The file prompts/multiprompts/styles.json contains a list of different styles to choose from. Here are examples for all the styles, applied to the prompts
 - castle
 - elephant
 - girl in a field of flowers
